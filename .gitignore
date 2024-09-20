@@ -105,3 +105,6 @@ venv.bak/
 
 # data
 data/
+
+# processed images
+processed_images/
